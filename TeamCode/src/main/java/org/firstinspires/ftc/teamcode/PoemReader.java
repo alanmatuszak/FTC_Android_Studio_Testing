@@ -63,7 +63,7 @@ public class PoemReader extends LinearOpMode  {
         "And everywhere that Mary went,",
         "The lamb was sure to go.",
         "",
-        "He followed her to school one day,",
+        "He followed her to school Wednesday,",
         "Which was against the rules.  It's rules!,",
         "It made the children laugh and play",
         "To see a lamb at school.",
